@@ -1,4 +1,4 @@
-##20210193 이연 과제1
+##20210193 이연 과제-csv파일을 데이터프레임에 평균 1등과 과목1등(중복허용)을 뽑아서 파일작성 과제
 
 import numpy as np
 from pandas import Series, DataFrame
